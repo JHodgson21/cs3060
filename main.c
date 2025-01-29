@@ -7,7 +7,7 @@
 int main(int argc, char *argv[]) {
     printf("Assignment 2 by Jakob Hodgson\n");
 
-    // Forking
+    // FORKING!
     pid_t pid = fork();
 
     if (pid < 0) {

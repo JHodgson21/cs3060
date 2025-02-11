@@ -1,0 +1,30 @@
+120 125
+215 115
+340 120
+440 135
+525 140
+655 75
+690 60
+810 75
+875 145
+935 50
+1060 130
+1085 140
+1085 75
+1190 85
+1285 35
+1325 120
+1385 10
+1440 35
+1550 65
+1580 45
+*** End of jobs list - seed: 358609725 ***
+First Come, First Served
+Avg. Resp.:176.25, Avg. T.A.:265.25, Avg. Wait:176.25
+Shortest Job First
+Avg. Resp.:116.25, Avg. T.A.:205.25, Avg. Wait:116.25
+Shortest Remaining Time First
+Avg. Resp.:81.75, Avg. T.A.:194.50, Avg. Wait:105.50
+Round Robin with Time Quantum of 100
+Avg. Resp.:149.25, Avg. T.A.:309.75, Avg. Wait:220.75
+

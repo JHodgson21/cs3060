@@ -1,0 +1,9 @@
+CC = gcc
+
+all: assn3
+
+assn3: "CPU Scheduler Sim.c"
+	$(CC) "CPU Scheduler Sim.c" -o assn3
+
+clean:
+	del assn3.exe

@@ -11,8 +11,9 @@ all: $(TARGET)
 
 # Building executable
 $(TARGET): $(SRC)
-	$(CC) -pthread -o $(TARGET).exe $(SRC)
+	$(CC) -pthread -o $(TARGET) $(SRC)
 
 # Cleaning compiled files
 clean:
-	rm -f $(TARGET).exe
+	rm -f $(TARGET)
+
